@@ -1,4 +1,4 @@
-# Vooice-Assistant
+# Voice-Assistant
     A simple voice assistant application in python
     This is going to wish you first and then you can service from this. 
     This is going to recognize your speech and perform tasks accordingly.
